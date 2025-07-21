@@ -1,0 +1,14 @@
+Guest Name,Table Number,Dietary Restriction,Sent Invitation,Row Index,,Omar,1,None,Yes
+Jack,2,Vegetarian,No,5,,Jack,2,Vegetarian,No
+Nancy,3,None,No,4,,Jianyu,2,Vegetarian,Yes
+Aida,3,None,Yes,3,,Nancy,3,None,No
+Jianyu,2,Vegetarian,Yes,2,,Aida,3,None,Yes
+Omar,1,None,Yes,1,,Guest Name,Table Number,Dietary Restriction,Sent Invitation
+,,,,,,,,,
+,,,,,,,,,
+Guest Name,Table Number,Dietary Restriction,Sent Invitation,Formula,,,,,
+Omar,1,None,Yes,"=SORT(A2:D6, 2, TRUE)",,,,,
+Jack,2,Vegetarian,No,,,,,,
+Jianyu,2,Vegetarian,Yes,,,,,,
+Nancy,3,None,No,,,,,,
+Aida,3,None,Yes,,,,,,
